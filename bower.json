@@ -1,0 +1,9 @@
+{
+  "name": "natuclin",
+  "description": "",
+  "main": "index.html",
+  "authors": ["Frederic Chien"],
+  "license": "ISC",
+  "homepage": "https://github.com/fredchien/natuclin",
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"]
+}
